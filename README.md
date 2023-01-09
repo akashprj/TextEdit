@@ -1,2 +1,2 @@
 # TextEdit
-Application made using java swing
+Application made by using java swing
